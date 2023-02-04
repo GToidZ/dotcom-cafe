@@ -1,6 +1,16 @@
 # DotCom Cafe
 
-[Beverages](#Beverages) | [AboutUs](#About-us)
+[Dinner](#Dinner) | [Beverages](#Beverages) | [AboutUs](#About-us)
+
+## Dinner
+
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Beef Burritos            | 70       |
+| Burgers                  | 110      |
+| Hotdogs                  | 70       |
+| Egg Fried Rice           | 50       |
+| Chicken parmesan         | 70       |
 
 ## Beverages
 
@@ -20,3 +30,4 @@
 | Name | Role      | Github   |
 |:-----|-----------|----------|
 | Jin  | Beverages | @jindasy |
+| Title     | Dinner    | @Tanabodee-Yambangyang |
