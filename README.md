@@ -1,6 +1,6 @@
 # DotCom Cafe 
 
-[Dinner](#Dinner)| [Night-Food](#Night-Food) | [Beverages](#Beverages) | [AboutUs](#About-us)
+[Dinner](#Dinner)| [Night-Food](#Night-Food) | [Snacks](#Snacks) | [Beverages](#Beverages) | [AboutUs](#About-us)
 
 ## Dinner
 
@@ -23,6 +23,16 @@
 |Kimchi|120|
 |Bibimbap salmon|120|
 
+## Snacks
+
+| Menu         | Price |
+|:-------------|-------|
+|French Fries  |30     |
+|Donut         |20     |
+|Cookies       |20     |
+|Mixed Nuts    |25     |
+|Chicken nugget|40     |
+
 ## Beverages
 
 | Menu                | Price |
@@ -42,4 +52,5 @@
 |:-----|-----------|----------|
 | Jin  | Beverages | @jindasy |
 | Title     | Dinner    | @Tanabodee-Yambangyang |
+| JAM | Snacks | @Pilleteer |
 | Karn | Night-Food | @karnse  |
