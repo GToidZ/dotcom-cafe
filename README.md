@@ -1,6 +1,16 @@
 # DotCom Cafe 
 
-[Dinner](#Dinner)| [Night-Food](#Night-Food) | [Snacks](#Snacks) | [Beverages](#Beverages) | [AboutUs](#About-us)
+[Breakfast](#Breakfast)|[Dinner](#Dinner)| [Night-Food](#Night-Food) | [Snacks](#Snacks) | [Beverages](#Beverages) | [AboutUs](#About-us)
+
+## Breakfast
+
+| Menu                                              | Price |
+| :-------------------------------------------------|-------|
+| egg pan                                           |   70  |
+| pizza                                             |  199  |
+| hamcheese sandwish                                |   69  |
+| pancake                                           |   80  |
+| pork porridg
 
 ## Dinner
 
@@ -54,3 +64,4 @@
 | Title     | Dinner    | @Tanabodee-Yambangyang |
 | JAM | Snacks | @Pilleteer |
 | Karn | Night-Food | @karnse  |
+| Poon | Breakfast | @Bigtourlantaop |
