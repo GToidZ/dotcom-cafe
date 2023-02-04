@@ -4,6 +4,12 @@
 
 ## Breakfast
 | Menu                                              | Price |
+| :-------------------------------------------------|-------|
+| egg pan                                           |   70  |
+| pizza                                             |  199  |
+| hamcheese sandwish                                |   69  |
+| pancake                                           |   80  |
+| pork porridge                                     |   60  |
 
 ## About Us
 
