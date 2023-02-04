@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-[Beverages](#Beverages)| [AboutUs](#About-us)
+[Beverages](#Beverages) | [AboutUs](#About-us)
 
 ## Beverages
 
