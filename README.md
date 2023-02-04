@@ -1,6 +1,6 @@
 # DotCom Cafe 
 
-[Breakfast](#Breakfast)|[Dinner](#Dinner)| [Night-Food](#Night-Food) | [Snacks](#Snacks) | [Beverages](#Beverages) | [AboutUs](#About-us)
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night-Food](#Night-Food) | [Snacks](#Snacks) | [Beverages](#Beverages) | [AboutUs](#About-us)
 
 ## Breakfast
 
@@ -10,7 +10,18 @@
 | pizza                                             |  199  |
 | hamcheese sandwish                                |   69  |
 | pancake                                           |   80  |
-| pork porridg
+| pork porridg                                      |   30  |
+
+## Lunch
+
+| Menu                                           | Price |
+| :--------------------------------------------- | ----- |
+| Krapao Rice                                    | 35    |
+| Green Curry                                    | 40    |
+| Boat Noodles                                   | 30    |
+| Noodles w/ Char Siu Pork and Crispy Pork Belly | 40    |
+| Fried Egg                                      | 8     |
+| White Rice                                     | 5     |
 
 ## Dinner
 
@@ -65,3 +76,4 @@
 | JAM | Snacks | @Pilleteer |
 | Karn | Night-Food | @karnse  |
 | Poon | Breakfast | @Bigtourlantaop |
+| Float | Lunch | @GToidZ |
