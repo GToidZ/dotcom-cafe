@@ -67,6 +67,13 @@
 | Latte               | 35    |
 | Strawberry Smoothie | 40    |
 
+## late night meal
+
+| Menu                | Price |
+|:--------------------|-------|
+| Salad               | 35    |
+| Water               |  7    |
+
 ## About Us
 
 | Name | Role      | Github   |
